@@ -6,9 +6,9 @@ Repositório do projeto Kabug com Cucumber, Capybara e Ruby
 * Importante ter Ruby instalado 
 
 ### Instalar o Bundler
-'
+"
 gem install bundle
-'
+"
 
 ### Instalar as depedência do Ruby
 '
